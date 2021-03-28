@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0-blueviolet)
 
 
-Irei atualizar este repositório de exemplo de portfólio com o que for aprendendo sobre HTML, CSS e JavaScript.
+Irei atualizar este exemplo de portfólio com o que for aprendendo sobre HTML, CSS e JavaScript.
 
 <img align="center" width="400" height="300" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif">
 
